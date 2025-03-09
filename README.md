@@ -13,7 +13,7 @@ In this SQL project, I focused on data cleaning techniques. I downloaded a datas
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and Granular requirements.
 
 This project depened my understanding of data cleaning and its importance in accurate analysis.
-## commands used:
+## Commands used:
 
 DATA CLEANING:
 Cleaning the Item_Fat_Content field ensures data consistency and accuracy in analysis. 
